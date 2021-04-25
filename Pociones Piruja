@@ -51,12 +51,31 @@ https://twinery.org/2/#!/stories/f1ad4876-1168-483f-829b-46ccb4d30d7c
 ### Metodología
 
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences) 
+Pociones Piruja se apoya en tres programas para su desarrollo narrativo visual e interactivo, como se mencionó anteriormente,
+los programas son el primero es Twine, este programa permitió desarrollar de manera interactiva la narración de Pociones Piruja,
+por lo que se tenía un esquema completo de la historia y permitió seguir a rajatabla el orden cronológico del juego; el segundo 
+es Renpy Launcher, este es un programa de diseño para novelas visuales de doble opción para iOS, Android, PSS y ordenadores, en 
+este es donde se desarrolló una parte de la novela animada y se realizaron las capturas de pantalla para la presentación del 
+trabajo; por último ProtoPie, un programa que permite realizar prototipos de aplicaciones, este nos permitió realizar la presentación
+del juego de una forma creativa e interactiva.
+
 
 ### Etapa 1: Ideación de proyecto 
+
+En esta primera etapa se identificó el proyecto que se quería realizar gracias a la inspiración de Danganronpa, lo que sirvió para 
+dar  inicio a la narración de novela visual de Pociones Piruja, para ello, se utilizó Twine, este programa permitió desarrollar de
+manera interactiva la narración del juego, por lo que se tenía un esquema completo de la historia y permitió seguir a rajatabla el 
+orden cronológico de la historia.
+
+
 
 Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 **Investigación de campo**   Desk research propuestas inspiradoras para el proyecto) 
+
+Danganronpa: lo escogimos porque el desarrollo interactivo de la historia era lo que buscábamos exactamente,este estilo de juego
+permite que el usuario viva la historia y conozca la narración a pasa lento porque le obliga a leer para marcar la opción correcta. 
+https://en.wikipedia.org/wiki/Danganronpa 
 
 * @LadyDistopia (link) ...¿ por qué ?
 * (...)
@@ -64,25 +83,48 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 
 **Necesidad/oportunidad** 
+Esta novela animada le crea la necesidad al usuario de seguir jugando y conocer más la historia, gracias a la narración que hay de 
+fondo y a la doble opción en respuestas que sale a lo largo de Pociones Piruja.
 
 **Motivación de la propuesta** .... ¿ por qué consideras interesante ? 
+Pociones Piruja es una opción muy atractiva para amantes de los videojuegos y sobretodo, para personas interesadas en temas paranormales 
+y de hechicería. 
 
-**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?) 
+
+**Personas/Usuarios**  (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
+El público objetivo de Pociones Piruja se centra en infantiles de 8 a 15 y en adolescentes de 16 a 20, sin embargo, 
+cualquier persona que desee jugar y conocer las historia que hay detrás del juego lo puede hacer. 
 
 **Estilo de narración**  (...indica como se hace uso de los medios)  
+-Renpy Launcher: Programa donde se juega Posiciones Piruja
+-ProtoPie: Programa donde se tiene acceso a la presentación de la novela animada.
 
 (ejemplos/alternativas) 
 * documental interactivo 
-* videojuego 
-* ... 
+* Comic 
+* Novela Gráfica
 
 
 
 ### Etapa 2: Prototipar / productos 
 
+En esta etapa se trabajó de la mano de dos programas que nos permitieron llevar a cabo la propuesta de 
+Pociones Piruja, el primero es Renpy Launcher, este es un programa de diseño para novelas visuales de doble 
+opción para iOS, Android, PSS y ordenadores, en este es donde se desarrolló una parte de la novela animada y
+se realizaron las capturas de pantalla para la presentación del trabajo; y en en segundo lugar esta ProtoPie,
+un programa que permite realizar prototipos de aplicaciones, este nos permitió realizar la presentación del 
+juego de una forma creativa e interactiva.
+
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
+
+    -Twine: Pantallazo de la narración de la novela animada en el programa.
+
+    -Renpy Launcher: Imagen inicial de Pociones Piruja en el programa donde se juega.
+    https://pbs.twimg.com/media/Ez0NvxJXEAENNJT?format=png&name=small 
+
+    -ProtoPie: Aquí se presenta la imagen inicial de Pociones Piruja en su aplicación. 
 
 * redes sociales (...) 
 
@@ -136,10 +178,14 @@ subirse a la web donde sería descargado por quien quisiera o lo necesitara.
 Referencias y recursos: 
 
 * Artículos ..  
-* Productos utilizados  
-* Propuestas de me
+· Danganronpa: Another Episode Features More Characters From The First Two Games - Siliconera. (2014). Siliconera. 
+http://www.siliconera.com/2014/06/23/danganronpa-another-episode-features-characters-first-two-games/ 
 
-(...)
+* Productos utilizados 
+· Andrea Fernández, C. B. Pociones piruja. (2020). Retrieved April 25, 2021, from 
+https://twinery.org/2/#!/stories/f1ad4876-1168-483f-829b-46ccb4d30d7c 
+· Ren’Py 7.4.4. (2020). Retrieved April 25, 2021, from https://www.renpy.org/latest.html 
+· Ren’Py 7.4.4. (2020). Retrieved April 25, 2021, from https://www.renpy.org/latest.html
 
 
 
